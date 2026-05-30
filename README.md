@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Meet Yadav 👋
 
-<!--
-**Ash7810/Ash7810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on LLMs, RAG pipelines, and Agentic systems.
+Currently building production-grade AI with Python, FastAPI, and ChromaDB.
 
-Here are some ideas to get you started:
+## What I build
+- 🤖 Multi-agent orchestration frameworks
+- 🔍 RAG pipelines with vector database retrieval
+- ⚡ FastAPI-served ML inference endpoints
+- 🛠️ Workflow automation with LLM cores
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+`Python` `FastAPI` `LangChain` `ChromaDB` `Gemini API` `YOLOv8` `Docker` `Git`
+
+## Projects
+- **MultiAgent Fitness Assistant** — RAG + multi-agent health query system
+- **Civic Guard** — YOLOv8 road damage segmentation via FastAPI
+- **Productivity Assistant** — LLM-powered task automation
+
+📫 meet.y.7810@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/meet-yadav7810)
